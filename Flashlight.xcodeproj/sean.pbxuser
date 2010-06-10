@@ -42,6 +42,55 @@
 		isa = PBXCodeSenseManager;
 		indexTemplatePath = "";
 	};
+	14C231E911C0A90A00DC8CEF /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* FlashlightAppDelegate.h */;
+		name = "FlashlightAppDelegate.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 334;
+		vrLoc = 0;
+	};
+	14C231EA11C0A90A00DC8CEF /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* Flashlight-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = "/Users/sean/Documents/Xcode/Flashlight/Flashlight-Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775807;
+	};
+	14C231EB11C0A90A00DC8CEF /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 1D3623250D0F684500981E51 /* FlashlightAppDelegate.m */;
+	};
+	14C231EC11C0A90A00DC8CEF /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* FlashlightAppDelegate.m */;
+		name = "FlashlightAppDelegate.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 429;
+		vrLoc = 0;
+	};
+	1D3623240D0F684500981E51 /* FlashlightAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {519, 247}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 334}";
+		};
+	};
+	1D3623250D0F684500981E51 /* FlashlightAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {810, 364}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 429}";
+		};
+	};
 	1D6058900D05DD3D006BFB54 /* Flashlight */ = {
 		activeExec = 0;
 		executables = (
@@ -64,7 +113,7 @@
 					20,
 					341,
 					20,
-					48.16259765625,
+					48,
 					43,
 					43,
 					20,
@@ -79,8 +128,14 @@
 					PBXFileDataSource_Target_ColumnID,
 				);
 			};
-			PBXPerProjectTemplateStateSaveDate = 297834998;
-			PBXWorkspaceStateSaveDate = 297834998;
+			PBXPerProjectTemplateStateSaveDate = 297838051;
+			PBXWorkspaceStateSaveDate = 297838051;
+		};
+		perUserProjectItems = {
+			14C231E911C0A90A00DC8CEF /* PBXTextBookmark */ = 14C231E911C0A90A00DC8CEF /* PBXTextBookmark */;
+			14C231EA11C0A90A00DC8CEF /* PlistBookmark */ = 14C231EA11C0A90A00DC8CEF /* PlistBookmark */;
+			14C231EB11C0A90A00DC8CEF /* PBXBookmark */ = 14C231EB11C0A90A00DC8CEF /* PBXBookmark */;
+			14C231EC11C0A90A00DC8CEF /* PBXTextBookmark */ = 14C231EC11C0A90A00DC8CEF /* PBXTextBookmark */;
 		};
 		sourceControlManager = 14B5914511C099F900454D32 /* Source Control */;
 		userBuildSettings = {

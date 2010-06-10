@@ -1,11 +1,11 @@
 TFlashlight
 v7
 r0
-t297835397.749938
+t297838772.019803
 cCheck dependencies
 cProcessInfoPlistFile /Users/sean/Documents/Xcode/Flashlight/build/Debug-iphonesimulator/Flashlight.app/Info.plist Flashlight-Info.plist
 cCompileXIB /Users/sean/Documents/Xcode/Flashlight/MainWindow.xib
-cProcessPCH /var/folders/g9/g9BL8CrLFmeBVnQDOheozE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Flashlight_Prefix-clnrvvxcsjnzsyczuyoxoktdxpop/Flashlight_Prefix.pch.gch Flashlight_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cProcessPCH /var/folders/MP/MP8o6N2XFUS+Rj5dnk8u5k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Flashlight_Prefix-clnrvvxcsjnzsyczuyoxoktdxpop/Flashlight_Prefix.pch.gch Flashlight_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
 cCompileC build/Flashlight.build/Debug-iphonesimulator/Flashlight.build/Objects-normal/i386/main.o /Users/sean/Documents/Xcode/Flashlight/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
 cCompileC build/Flashlight.build/Debug-iphonesimulator/Flashlight.build/Objects-normal/i386/FlashlightAppDelegate.o /Users/sean/Documents/Xcode/Flashlight/Classes/FlashlightAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
 cLd /Users/sean/Documents/Xcode/Flashlight/build/Debug-iphonesimulator/Flashlight.app/Flashlight normal i386
@@ -43,88 +43,92 @@ t1261134517
 s23536096
 
 N/Users/sean/Documents/Xcode/Flashlight/Classes/FlashlightAppDelegate.h
-c000000004C106276000000000000014E
-t1276142198
+c000000004C106E3B000000000000014E
+t1276145211
 s334
 i<UIKit/UIKit.h>
 
 N/Users/sean/Documents/Xcode/Flashlight/Classes/FlashlightAppDelegate.m
-c000000004C1062760000000000000226
-t1276142198
+c000000004C106E3B0000000000000226
+t1276145211
 s550
 i"FlashlightAppDelegate.h"
 
 N/Users/sean/Documents/Xcode/Flashlight/Flashlight_Prefix.pch
-c000000004C10627600000000000000BD
-t1276142198
+c000000004C106E3B00000000000000BD
+t1276145211
 s189
 i<Foundation/Foundation.h>
 i<UIKit/UIKit.h>
 
 N/Users/sean/Documents/Xcode/Flashlight/MainWindow.xib
-c000000004C1062760000000000002117
-t1276142198
-s8471
+c000000004C1071170000000000003E3A
+t1276145943
+s15930
 
 N/Users/sean/Documents/Xcode/Flashlight/build/Debug-iphonesimulator/Flashlight.app
-t1276142597
+t1276145972
 s204
 
 N/Users/sean/Documents/Xcode/Flashlight/build/Debug-iphonesimulator/Flashlight.app.dSYM
-t1276142597
+t1276145971
 s102
 
 N/Users/sean/Documents/Xcode/Flashlight/build/Debug-iphonesimulator/Flashlight.app/Flashlight
-t1276142597
+t1276145971
 s18384
 
 N/Users/sean/Documents/Xcode/Flashlight/build/Debug-iphonesimulator/Flashlight.app/Info.plist
-t1276142593
+t1276145211
 s605
 
 N/Users/sean/Documents/Xcode/Flashlight/build/Debug-iphonesimulator/Flashlight.app/MainWindow.nib
-t1276142594
-s1363
+t1276145967
+s1377
 
 N/Users/sean/Documents/Xcode/Flashlight/build/Debug-iphonesimulator/Flashlight.app/PkgInfo
-t1276142593
+t1276145211
 s8
 
 N/Users/sean/Documents/Xcode/Flashlight/build/Flashlight.build/Debug-iphonesimulator/Flashlight.build/Objects-normal/i386/Flashlight.LinkFileList
-c000000004C1064010000000000000111
-t1276142593
+c000000004C106E3B0000000000000111
+t1276145211
 s273
 
 N/Users/sean/Documents/Xcode/Flashlight/build/Flashlight.build/Debug-iphonesimulator/Flashlight.build/Objects-normal/i386/FlashlightAppDelegate.o
-t1276142596
+t1276145969
 s17368
 
 N/Users/sean/Documents/Xcode/Flashlight/build/Flashlight.build/Debug-iphonesimulator/Flashlight.build/Objects-normal/i386/main.o
-t1276142596
+t1276145969
 s5948
 
 N/Users/sean/Documents/Xcode/Flashlight/main.m
-c000000004C106276000000000000016A
-t1276142198
+c000000004C106E3B000000000000016A
+t1276145211
 s362
 i<UIKit/UIKit.h>
+
+N/var/folders/MP/MP8o6N2XFUS+Rj5dnk8u5k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Flashlight_Prefix-clnrvvxcsjnzsyczuyoxoktdxpop/Flashlight_Prefix.pch.gch
+t1276145968
+s13026768
 
 N/var/folders/g9/g9BL8CrLFmeBVnQDOheozE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Flashlight_Prefix-clnrvvxcsjnzsyczuyoxoktdxpop/Flashlight_Prefix.pch.gch
 t1276142596
 s13026768
 
 NFlashlight-Info.plist
-c000000004C106276000000000000038D
-t1276142198
+c000000004C106E3B000000000000038D
+t1276145211
 s909
 
 CCheck dependencies
 r0
-lSLF07#2@18"Check dependencies297835393#297835393#0(0"0(0#1#0"7947009927035180032#0"0#
+lSLF07#2@18"Check dependencies297838766#297838766#0(0"0(0#1#0"7947009927035180032#0"0#
 
 CCompileC build/Flashlight.build/Debug-iphonesimulator/Flashlight.build/Objects-normal/i386/FlashlightAppDelegate.o /Users/sean/Documents/Xcode/Flashlight/Classes/FlashlightAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
-s297835396.772485
-e297835397.000572
+s297838768.753003
+e297838769.034092
 r1
 xCompileC
 xbuild/Flashlight.build/Debug-iphonesimulator/Flashlight.build/Objects-normal/i386/FlashlightAppDelegate.o
@@ -133,11 +137,11 @@ xnormal
 xi386
 xobjective-c
 xcom.apple.compilers.gcc.4_2
-lSLF07#2@78"Compile /Users/sean/Documents/Xcode/Flashlight/Classes/FlashlightAppDelegate.m297835396#297835397#0(0"0(0#0#70"/Users/sean/Documents/Xcode/Flashlight/Classes/FlashlightAppDelegate.m4300911832#1961"    cd /Users/sean/Documents/Xcode/Flashlight    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/sean/Documents/Xcode/Flashlight/build/Flashlight.build/Debug-iphonesimulator/Flashlight.build/Flashlight-generated-files.hmap -I/Users/sean/Documents/Xcode/Flashlight/build/Flashlight.build/Debug-iphonesimulator/Flashlight.build/Flashlight-own-target-headers.hmap -I/Users/sean/Documents/Xcode/Flashlight/build/Flashlight.build/Debug-iphonesimulator/Flashlight.build/Flashlight-all-target-headers.hmap -iquote /Users/sean/Documents/Xcode/Flashlight/build/Flashlight.build/Debug-iphonesimulator/Flashlight.build/Flashlight-project-headers.hmap -F/Users/sean/Documents/Xcode/Flashlight/build/Debug-iphonesimulator -I/Users/sean/Documents/Xcode/Flashlight/build/Debug-iphonesimulator/include -I/Users/sean/Documents/Xcode/Flashlight/build/Flashlight.build/Debug-iphonesimulator/Flashlight.build/DerivedSources/i386 -I/Users/sean/Documents/Xcode/Flashlight/build/Flashlight.build/Debug-iphonesimulator/Flashlight.build/DerivedSources -include /var/folders/g9/g9BL8CrLFmeBVnQDOheozE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Flashlight_Prefix-clnrvvxcsjnzsyczuyoxoktdxpop/Flashlight_Prefix.pch -c /Users/sean/Documents/Xcode/Flashlight/Classes/FlashlightAppDelegate.m -o /Users/sean/Documents/Xcode/Flashlight/build/Flashlight.build/Debug-iphonesimulator/Flashlight.build/Objects-normal/i386/FlashlightAppDelegate.o0#
+lSLF07#2@78"Compile /Users/sean/Documents/Xcode/Flashlight/Classes/FlashlightAppDelegate.m297838768#297838769#0(0"0(0#0#70"/Users/sean/Documents/Xcode/Flashlight/Classes/FlashlightAppDelegate.m4300911832#1961"    cd /Users/sean/Documents/Xcode/Flashlight    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/sean/Documents/Xcode/Flashlight/build/Flashlight.build/Debug-iphonesimulator/Flashlight.build/Flashlight-generated-files.hmap -I/Users/sean/Documents/Xcode/Flashlight/build/Flashlight.build/Debug-iphonesimulator/Flashlight.build/Flashlight-own-target-headers.hmap -I/Users/sean/Documents/Xcode/Flashlight/build/Flashlight.build/Debug-iphonesimulator/Flashlight.build/Flashlight-all-target-headers.hmap -iquote /Users/sean/Documents/Xcode/Flashlight/build/Flashlight.build/Debug-iphonesimulator/Flashlight.build/Flashlight-project-headers.hmap -F/Users/sean/Documents/Xcode/Flashlight/build/Debug-iphonesimulator -I/Users/sean/Documents/Xcode/Flashlight/build/Debug-iphonesimulator/include -I/Users/sean/Documents/Xcode/Flashlight/build/Flashlight.build/Debug-iphonesimulator/Flashlight.build/DerivedSources/i386 -I/Users/sean/Documents/Xcode/Flashlight/build/Flashlight.build/Debug-iphonesimulator/Flashlight.build/DerivedSources -include /var/folders/MP/MP8o6N2XFUS+Rj5dnk8u5k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Flashlight_Prefix-clnrvvxcsjnzsyczuyoxoktdxpop/Flashlight_Prefix.pch -c /Users/sean/Documents/Xcode/Flashlight/Classes/FlashlightAppDelegate.m -o /Users/sean/Documents/Xcode/Flashlight/build/Flashlight.build/Debug-iphonesimulator/Flashlight.build/Objects-normal/i386/FlashlightAppDelegate.o0#
 
 CCompileC build/Flashlight.build/Debug-iphonesimulator/Flashlight.build/Objects-normal/i386/main.o /Users/sean/Documents/Xcode/Flashlight/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
-s297835396.770726
-e297835397.000069
+s297838768.751923
+e297838769.034531
 r1
 xCompileC
 xbuild/Flashlight.build/Debug-iphonesimulator/Flashlight.build/Objects-normal/i386/main.o
@@ -146,34 +150,35 @@ xnormal
 xi386
 xobjective-c
 xcom.apple.compilers.gcc.4_2
-lSLF07#2@53"Compile /Users/sean/Documents/Xcode/Flashlight/main.m297835396#297835397#0(0"0(0#0#45"/Users/sean/Documents/Xcode/Flashlight/main.m4300911832#1919"    cd /Users/sean/Documents/Xcode/Flashlight    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/sean/Documents/Xcode/Flashlight/build/Flashlight.build/Debug-iphonesimulator/Flashlight.build/Flashlight-generated-files.hmap -I/Users/sean/Documents/Xcode/Flashlight/build/Flashlight.build/Debug-iphonesimulator/Flashlight.build/Flashlight-own-target-headers.hmap -I/Users/sean/Documents/Xcode/Flashlight/build/Flashlight.build/Debug-iphonesimulator/Flashlight.build/Flashlight-all-target-headers.hmap -iquote /Users/sean/Documents/Xcode/Flashlight/build/Flashlight.build/Debug-iphonesimulator/Flashlight.build/Flashlight-project-headers.hmap -F/Users/sean/Documents/Xcode/Flashlight/build/Debug-iphonesimulator -I/Users/sean/Documents/Xcode/Flashlight/build/Debug-iphonesimulator/include -I/Users/sean/Documents/Xcode/Flashlight/build/Flashlight.build/Debug-iphonesimulator/Flashlight.build/DerivedSources/i386 -I/Users/sean/Documents/Xcode/Flashlight/build/Flashlight.build/Debug-iphonesimulator/Flashlight.build/DerivedSources -include /var/folders/g9/g9BL8CrLFmeBVnQDOheozE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Flashlight_Prefix-clnrvvxcsjnzsyczuyoxoktdxpop/Flashlight_Prefix.pch -c /Users/sean/Documents/Xcode/Flashlight/main.m -o /Users/sean/Documents/Xcode/Flashlight/build/Flashlight.build/Debug-iphonesimulator/Flashlight.build/Objects-normal/i386/main.o0#
+lSLF07#2@53"Compile /Users/sean/Documents/Xcode/Flashlight/main.m297838768#297838769#0(0"0(0#0#45"/Users/sean/Documents/Xcode/Flashlight/main.m4300911832#1919"    cd /Users/sean/Documents/Xcode/Flashlight    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/sean/Documents/Xcode/Flashlight/build/Flashlight.build/Debug-iphonesimulator/Flashlight.build/Flashlight-generated-files.hmap -I/Users/sean/Documents/Xcode/Flashlight/build/Flashlight.build/Debug-iphonesimulator/Flashlight.build/Flashlight-own-target-headers.hmap -I/Users/sean/Documents/Xcode/Flashlight/build/Flashlight.build/Debug-iphonesimulator/Flashlight.build/Flashlight-all-target-headers.hmap -iquote /Users/sean/Documents/Xcode/Flashlight/build/Flashlight.build/Debug-iphonesimulator/Flashlight.build/Flashlight-project-headers.hmap -F/Users/sean/Documents/Xcode/Flashlight/build/Debug-iphonesimulator -I/Users/sean/Documents/Xcode/Flashlight/build/Debug-iphonesimulator/include -I/Users/sean/Documents/Xcode/Flashlight/build/Flashlight.build/Debug-iphonesimulator/Flashlight.build/DerivedSources/i386 -I/Users/sean/Documents/Xcode/Flashlight/build/Flashlight.build/Debug-iphonesimulator/Flashlight.build/DerivedSources -include /var/folders/MP/MP8o6N2XFUS+Rj5dnk8u5k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Flashlight_Prefix-clnrvvxcsjnzsyczuyoxoktdxpop/Flashlight_Prefix.pch -c /Users/sean/Documents/Xcode/Flashlight/main.m -o /Users/sean/Documents/Xcode/Flashlight/build/Flashlight.build/Debug-iphonesimulator/Flashlight.build/Objects-normal/i386/main.o0#
 
 CCompileXIB /Users/sean/Documents/Xcode/Flashlight/MainWindow.xib
-s297835393.509186
-e297835394.442887
+s297838766.625804
+e297838767.245989
 r1
 xCompileXIB
 x/Users/sean/Documents/Xcode/Flashlight/MainWindow.xib
-lSLF07#2@25"CompileXIB MainWindow.xib297835393#297835394#0(0"0(0#0#53"/Users/sean/Documents/Xcode/Flashlight/MainWindow.xib4300911832#485"    cd /Users/sean/Documents/Xcode/Flashlight    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/sean/Documents/Xcode/Flashlight/build/Debug-iphonesimulator/Flashlight.app/MainWindow.nib /Users/sean/Documents/Xcode/Flashlight/MainWindow.xib0#
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+lSLF07#2@25"CompileXIB MainWindow.xib297838766#297838767#0(84"Couldn't open shared capabilities memory GSCapabilities (No such file or directory)0(0#0#53"/Users/sean/Documents/Xcode/Flashlight/MainWindow.xib28147974418923608#485"    cd /Users/sean/Documents/Xcode/Flashlight    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/sean/Documents/Xcode/Flashlight/build/Debug-iphonesimulator/Flashlight.app/MainWindow.nib /Users/sean/Documents/Xcode/Flashlight/MainWindow.xib0#
 
 CGenerateDSYMFile /Users/sean/Documents/Xcode/Flashlight/build/Debug-iphonesimulator/Flashlight.app.dSYM /Users/sean/Documents/Xcode/Flashlight/build/Debug-iphonesimulator/Flashlight.app/Flashlight
-s297835397.612853
-e297835397.708874
+s297838771.664727
+e297838771.959283
 r1
 xGenerateDSYMFile
 x/Users/sean/Documents/Xcode/Flashlight/build/Debug-iphonesimulator/Flashlight.app.dSYM
 x/Users/sean/Documents/Xcode/Flashlight/build/Debug-iphonesimulator/Flashlight.app/Flashlight
-lSLF07#2@118"GenerateDSYMFile build/Debug-iphonesimulator/Flashlight.app.dSYM build/Debug-iphonesimulator/Flashlight.app/Flashlight297835397#297835397#0(0"0(0#0#92"/Users/sean/Documents/Xcode/Flashlight/build/Debug-iphonesimulator/Flashlight.app/Flashlight4300911832#392"    cd /Users/sean/Documents/Xcode/Flashlight    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/sean/Documents/Xcode/Flashlight/build/Debug-iphonesimulator/Flashlight.app/Flashlight -o /Users/sean/Documents/Xcode/Flashlight/build/Debug-iphonesimulator/Flashlight.app.dSYM0#
+lSLF07#2@118"GenerateDSYMFile build/Debug-iphonesimulator/Flashlight.app.dSYM build/Debug-iphonesimulator/Flashlight.app/Flashlight297838771#297838771#0(0"0(0#0#92"/Users/sean/Documents/Xcode/Flashlight/build/Debug-iphonesimulator/Flashlight.app/Flashlight4300911832#392"    cd /Users/sean/Documents/Xcode/Flashlight    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/sean/Documents/Xcode/Flashlight/build/Debug-iphonesimulator/Flashlight.app/Flashlight -o /Users/sean/Documents/Xcode/Flashlight/build/Debug-iphonesimulator/Flashlight.app.dSYM0#
 
 CLd /Users/sean/Documents/Xcode/Flashlight/build/Debug-iphonesimulator/Flashlight.app/Flashlight normal i386
-s297835397.000639
-e297835397.612709
+s297838769.034586
+e297838771.664601
 r1
 xLd
 x/Users/sean/Documents/Xcode/Flashlight/build/Debug-iphonesimulator/Flashlight.app/Flashlight
 xnormal
 xi386
-lSLF07#2@97"Link /Users/sean/Documents/Xcode/Flashlight/build/Debug-iphonesimulator/Flashlight.app/Flashlight297835397#297835397#0(0"0(0#0#0"4300911832#879"    cd /Users/sean/Documents/Xcode/Flashlight    setenv MACOSX_DEPLOYMENT_TARGET 10.5    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -L/Users/sean/Documents/Xcode/Flashlight/build/Debug-iphonesimulator -F/Users/sean/Documents/Xcode/Flashlight/build/Debug-iphonesimulator -filelist /Users/sean/Documents/Xcode/Flashlight/build/Flashlight.build/Debug-iphonesimulator/Flashlight.build/Objects-normal/i386/Flashlight.LinkFileList -mmacosx-version-min=10.5 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/sean/Documents/Xcode/Flashlight/build/Debug-iphonesimulator/Flashlight.app/Flashlight0#
+lSLF07#2@97"Link /Users/sean/Documents/Xcode/Flashlight/build/Debug-iphonesimulator/Flashlight.app/Flashlight297838769#297838771#0(0"0(0#0#0"4300911832#879"    cd /Users/sean/Documents/Xcode/Flashlight    setenv MACOSX_DEPLOYMENT_TARGET 10.5    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -L/Users/sean/Documents/Xcode/Flashlight/build/Debug-iphonesimulator -F/Users/sean/Documents/Xcode/Flashlight/build/Debug-iphonesimulator -filelist /Users/sean/Documents/Xcode/Flashlight/build/Flashlight.build/Debug-iphonesimulator/Flashlight.build/Objects-normal/i386/Flashlight.LinkFileList -mmacosx-version-min=10.5 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/sean/Documents/Xcode/Flashlight/build/Debug-iphonesimulator/Flashlight.app/Flashlight0#
 
 CProcessInfoPlistFile /Users/sean/Documents/Xcode/Flashlight/build/Debug-iphonesimulator/Flashlight.app/Info.plist Flashlight-Info.plist
 s297835393.464302
@@ -183,6 +188,19 @@ xProcessInfoPlistFile
 x/Users/sean/Documents/Xcode/Flashlight/build/Debug-iphonesimulator/Flashlight.app/Info.plist
 xFlashlight-Info.plist
 lSLF07#2@29"Process Flashlight-Info.plist297835393#297835393#0(0"0(0#0#60"/Users/sean/Documents/Xcode/Flashlight/Flashlight-Info.plist12666816341278818#488"    cd /Users/sean/Documents/Xcode/Flashlight    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility Flashlight-Info.plist -genpkginfo /Users/sean/Documents/Xcode/Flashlight/build/Debug-iphonesimulator/Flashlight.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/sean/Documents/Xcode/Flashlight/build/Debug-iphonesimulator/Flashlight.app/Info.plist0#
+
+CProcessPCH /var/folders/MP/MP8o6N2XFUS+Rj5dnk8u5k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Flashlight_Prefix-clnrvvxcsjnzsyczuyoxoktdxpop/Flashlight_Prefix.pch.gch Flashlight_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s297838767.246229
+e297838768.751722
+r1
+xProcessPCH
+x/var/folders/MP/MP8o6N2XFUS+Rj5dnk8u5k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Flashlight_Prefix-clnrvvxcsjnzsyczuyoxoktdxpop/Flashlight_Prefix.pch.gch
+xFlashlight_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@32"Precompile Flashlight_Prefix.pch297838767#297838768#0(0"0(0#0#60"/Users/sean/Documents/Xcode/Flashlight/Flashlight_Prefix.pch4300911832#1808"    cd /Users/sean/Documents/Xcode/Flashlight    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/sean/Documents/Xcode/Flashlight/build/Flashlight.build/Debug-iphonesimulator/Flashlight.build/Flashlight-generated-files.hmap -I/Users/sean/Documents/Xcode/Flashlight/build/Flashlight.build/Debug-iphonesimulator/Flashlight.build/Flashlight-own-target-headers.hmap -I/Users/sean/Documents/Xcode/Flashlight/build/Flashlight.build/Debug-iphonesimulator/Flashlight.build/Flashlight-all-target-headers.hmap -iquote /Users/sean/Documents/Xcode/Flashlight/build/Flashlight.build/Debug-iphonesimulator/Flashlight.build/Flashlight-project-headers.hmap -F/Users/sean/Documents/Xcode/Flashlight/build/Debug-iphonesimulator -I/Users/sean/Documents/Xcode/Flashlight/build/Debug-iphonesimulator/include -I/Users/sean/Documents/Xcode/Flashlight/build/Flashlight.build/Debug-iphonesimulator/Flashlight.build/DerivedSources/i386 -I/Users/sean/Documents/Xcode/Flashlight/build/Flashlight.build/Debug-iphonesimulator/Flashlight.build/DerivedSources -c /Users/sean/Documents/Xcode/Flashlight/Flashlight_Prefix.pch -o /var/folders/MP/MP8o6N2XFUS+Rj5dnk8u5k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Flashlight_Prefix-clnrvvxcsjnzsyczuyoxoktdxpop/Flashlight_Prefix.pch.gch0#
 
 CProcessPCH /var/folders/g9/g9BL8CrLFmeBVnQDOheozE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Flashlight_Prefix-clnrvvxcsjnzsyczuyoxoktdxpop/Flashlight_Prefix.pch.gch Flashlight_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
 s297835394.443062
@@ -198,10 +216,10 @@ xcom.apple.compilers.gcc.4_2
 lSLF07#2@32"Precompile Flashlight_Prefix.pch297835394#297835396#0(0"0(0#0#60"/Users/sean/Documents/Xcode/Flashlight/Flashlight_Prefix.pch4300911832#1808"    cd /Users/sean/Documents/Xcode/Flashlight    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/sean/Documents/Xcode/Flashlight/build/Flashlight.build/Debug-iphonesimulator/Flashlight.build/Flashlight-generated-files.hmap -I/Users/sean/Documents/Xcode/Flashlight/build/Flashlight.build/Debug-iphonesimulator/Flashlight.build/Flashlight-own-target-headers.hmap -I/Users/sean/Documents/Xcode/Flashlight/build/Flashlight.build/Debug-iphonesimulator/Flashlight.build/Flashlight-all-target-headers.hmap -iquote /Users/sean/Documents/Xcode/Flashlight/build/Flashlight.build/Debug-iphonesimulator/Flashlight.build/Flashlight-project-headers.hmap -F/Users/sean/Documents/Xcode/Flashlight/build/Debug-iphonesimulator -I/Users/sean/Documents/Xcode/Flashlight/build/Debug-iphonesimulator/include -I/Users/sean/Documents/Xcode/Flashlight/build/Flashlight.build/Debug-iphonesimulator/Flashlight.build/DerivedSources/i386 -I/Users/sean/Documents/Xcode/Flashlight/build/Flashlight.build/Debug-iphonesimulator/Flashlight.build/DerivedSources -c /Users/sean/Documents/Xcode/Flashlight/Flashlight_Prefix.pch -o /var/folders/g9/g9BL8CrLFmeBVnQDOheozE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Flashlight_Prefix-clnrvvxcsjnzsyczuyoxoktdxpop/Flashlight_Prefix.pch.gch0#
 
 CTouch /Users/sean/Documents/Xcode/Flashlight/build/Debug-iphonesimulator/Flashlight.app
-s297835397.709138
-e297835397.749855
+s297838771.959364
+e297838772.019738
 r1
 xTouch
 x/Users/sean/Documents/Xcode/Flashlight/build/Debug-iphonesimulator/Flashlight.app
-lSLF07#2@87"Touch /Users/sean/Documents/Xcode/Flashlight/build/Debug-iphonesimulator/Flashlight.app297835397#297835397#0(0"0(0#0#0"4300911832#281"    cd /Users/sean/Documents/Xcode/Flashlight    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/sean/Documents/Xcode/Flashlight/build/Debug-iphonesimulator/Flashlight.app0#
+lSLF07#2@87"Touch /Users/sean/Documents/Xcode/Flashlight/build/Debug-iphonesimulator/Flashlight.app297838771#297838772#0(0"0(0#0#0"4300911832#281"    cd /Users/sean/Documents/Xcode/Flashlight    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/sean/Documents/Xcode/Flashlight/build/Debug-iphonesimulator/Flashlight.app0#
 
